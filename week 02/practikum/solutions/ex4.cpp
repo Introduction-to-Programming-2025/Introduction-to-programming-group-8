@@ -7,7 +7,7 @@ int main() {
     double radiusSquared = radius * radius;
     double distanceSquared = x * x + y * y;
 
-    if (distanceSquared - radiusSquared) {
+    if (distanceSquared - radiusSquared == 0) {
         std::cout << "по контура\n";
     } else if (distanceSquared < radiusSquared) {
         std::cout << "вътре\n";
