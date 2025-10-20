@@ -2,6 +2,8 @@
 #include <cmath>
 
 int main() {
+    const double EPSILON = 0.0001;
+
     double referenceValue, candidate1, candidate2, candidate3;
     std::cin >> referenceValue >> candidate1 >> candidate2 >> candidate3;
 
@@ -10,17 +12,21 @@ int main() {
     double distance3 = std::abs(candidate3 - referenceValue);
 
     double minDistance = distance1;
-    if (distance2 < minDistance) minDistance = distance2;
-    if (distance3 < minDistance) minDistance = distance3;
+    if (distance2 + EPSILON < minDistance) {
+        minDistance = distance2;
+    }
+    if (distance3 + EPSILON < minDistance) {
+        minDistance = distance3;
+    }
 
-    bool isC1Closest = (distance1 == minDistance);
-    bool isC2Closest = (distance2 == minDistance);
-    bool isC3Closest = (distance3 == minDistance);
+    bool isC1Closest = (std::abs(distance1 - minDistance) < EPSILON);
+    bool isC2Closest = (std::abs(distance2 - minDistance) < EPSILON);
+    bool isC3Closest = (std::abs(distance3 - minDistance) < EPSILON);
 
     int closestCount = (isC1Closest ? 1 : 0) + (isC2Closest ? 1 : 0) + (isC3Closest ? 1 : 0);
 
     if (closestCount == 1) {
-         std::cout << "Closest is ";
+        std::cout << "Closest is ";
         if (isC1Closest) {
             std::cout << "candidate1";
         } else if (isC2Closest) {

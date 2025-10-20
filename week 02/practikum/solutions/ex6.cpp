@@ -3,7 +3,7 @@
 
 int main() {
     char kind;
-    if (!(std::cin >> kind)) return 0;
+    std::cin >> kind;
 
     const double PI = 3.141592;
     double a = 0.0, b = 0.0, r = 0.0, h = 0.0, area = 0.0;
@@ -18,7 +18,7 @@ int main() {
             area = a * b;
             break;
         case 'c':
-           std::cin >> r;
+            std::cin >> r;
             area = PI * r * r;
             break;
         case 't':
