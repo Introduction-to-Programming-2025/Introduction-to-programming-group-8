@@ -32,3 +32,35 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GCC](https://gcc.gnu.org/) 
 - [C++ VS Code extention](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)
+
+#### Генериране на начален код:
+- клавишна комбинация `Ctrl + Shift + P` за отваряне на Command Pallete
+- търсене на `Configure snippets` и избиране на `C++`
+- Поставяне на следната конфигурация (или каквито други промени желаете) в конфигурационния файл:
+```
+"main": {
+  "prefix": "main",
+  "body": [
+    "#include <iostream>",
+    "",
+    "int main() {",
+    "",
+    "",
+    "    return 0;",
+    "}",
+    ""
+  ],
+}
+```
+- рестартиране на VS code
+- при изписване на текст `main`, ще се генерира следния код:
+```c++
+#include <iostream>
+
+int main() {
+
+
+    return 0;
+}
+
+```
