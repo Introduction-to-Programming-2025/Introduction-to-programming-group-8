@@ -1,12 +1,13 @@
 # Увод в програмирането 2025, КН2, група 8
 
-**Семинар:** Стела Маринова, stela_marinova98@g.fmi.uni-sofia.bg
+**Семинар:** Стела Маринова, stela_marinova98@g.fmi.uni-sofia.bg <br>
 **Практикум:** Александър Иванов, alex.ivanov0722@gmail.com
 
 ### Конспект
 00. [GitHub basics](https://classroom.github.com/a/aAeTwg1J)
 01. [Дефиниция на променливи и константи. Типове. Аритметични и логически оператори. Оператори за сравнение.](https://classroom.github.com/a/BQa5Thz1)
 02. [Побитови операции. Логически операции. Условни оператори.](https://classroom.github.com/a/841ML93L)
+03. [Циклични оператори.](https://classroom.github.com/a/Mtbu829c)
 
 
 
