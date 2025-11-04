@@ -9,6 +9,7 @@
 02. [Побитови операции. Логически операции. Условни оператори.](https://classroom.github.com/a/841ML93L)
 03. [Циклични оператори.](https://classroom.github.com/a/Mtbu829c)
 04. [Едномерни масиви](https://classroom.github.com/a/KFiG_1Xh)
+05. [Подготовка за контролно №1]()
 
 
 
