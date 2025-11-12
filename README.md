@@ -10,7 +10,7 @@
 03. [Циклични оператори.](https://classroom.github.com/a/Mtbu829c)
 04. [Едномерни масиви](https://classroom.github.com/a/KFiG_1Xh)
 05. [Подготовка за контролно №1](https://classroom.github.com/a/ZeIzg9zW)
-06. [Функции. Указатели. Указателна аритметика. Псевдоними. ]()
+06. [Функции. Указатели. Указателна аритметика. Псевдоними. ](https://classroom.github.com/a/L9SZrcoA)
 
 
 
