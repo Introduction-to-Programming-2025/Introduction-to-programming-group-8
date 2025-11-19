@@ -11,7 +11,7 @@
 04. [Едномерни масиви](https://classroom.github.com/a/KFiG_1Xh)
 05. [Подготовка за контролно №1](https://classroom.github.com/a/ZeIzg9zW)
 06. [Функции. Указатели. Указателна аритметика. Псевдоними. ](https://classroom.github.com/a/L9SZrcoA)
-07. [Многомерни масиви]()
+07. [Многомерни масиви](https://classroom.github.com/a/wXSlq9aZ)
 
 
 
