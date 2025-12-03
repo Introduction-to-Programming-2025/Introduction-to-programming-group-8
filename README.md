@@ -12,7 +12,8 @@
 05. [Подготовка за контролно №1](https://classroom.github.com/a/ZeIzg9zW)
 06. [Функции. Указатели. Указателна аритметика. Псевдоними. ](https://classroom.github.com/a/L9SZrcoA)
 07. [Многомерни масиви](https://classroom.github.com/a/wXSlq9aZ)
-08. [Динамично заделяне на памет](https://classroom.github.com/a/kSMlvxl8)
+08. [Динамично заделяне на памет. Подготовка за контролно №2](https://classroom.github.com/a/kSMlvxl8)
+09. [Динамично заделяне на памет - упражнение]()
 
 
 
