@@ -14,7 +14,7 @@
 07. [Многомерни масиви](https://classroom.github.com/a/wXSlq9aZ)
 08. [Динамично заделяне на памет. Подготовка за контролно №2](https://classroom.github.com/a/kSMlvxl8)
 09. [Динамично заделяне на памет - упражнение](), [Практикум](https://classroom.github.com/a/kH7oS-17)
-10. [Низове]()
+10. [Низове](https://classroom.github.com/a/wQQuS3Mf)
 
 
 
