@@ -12,7 +12,9 @@
  * на всички думи, започвайки отзад напред. Думите се разделят с интервал.
  */
 char* concatenate_reverse(char** word_list, int size) {
-    if (word_list == NULL || size <= 2 || size >= 1024) {
+    // nullptr
+    // use MAX_WORDS
+    if (word_list == NULL || size <= 2 || size >= 1024) { 
         std::cerr << "Невалиден брой думи (" << size << ") или невалиден списък." << std::endl;
         return NULL;
     }
@@ -80,6 +82,7 @@ int main() {
     for (int i = 0; i < demo_size; i++) {
         std::free(demo_words[i]);
     }
+    // delete[] demo_words
 
     return 0;
 }
