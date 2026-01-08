@@ -16,7 +16,7 @@
 09. [Динамично заделяне на памет - упражнение](), [Практикум](https://classroom.github.com/a/kH7oS-17)
 10. [Низове](https://classroom.github.com/a/wQQuS3Mf)
 11. [Низове - упражнение](https://classroom.github.com/a/WoHvtRNb)
-12. [Рекурсия]()
+12. [Рекурсия](https://github.com/Introduction-to-Programming-2025/introduction-to-programming-2025-group-8-week-12-Introduction-to-programming-group-8-assignments)
 
 
 
