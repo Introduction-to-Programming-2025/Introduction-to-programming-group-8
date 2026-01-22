@@ -12,17 +12,19 @@
 
 #### Пример:
 **Вход:** <br>
-6 <br>
-<tag1 value = "value"> <br>
-<tag2 name = "name"> <br>
-<tag3 another="another" value="final"> <br>
-</tag3> <br>
-</tag2> <br>
-</tag1> <br>
+```
+6 
+<tag1 value = "value">
+<tag2 name = "name"> 
+<tag3 another="another" value="final">
+</tag3>
+</tag2>
+</tag1> 
 3
 tag2~name
 tag1.tag2.tag3~value
 tag1.tag2~value
+```
 
 **Изход:** <br>
 value <br>
